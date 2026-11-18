@@ -1,0 +1,42 @@
+[submodule "selinux"]
+	path = KitsuneMagisk/native/src/external/selinux
+	url = https://github.com/1q23lyc45/selinux
+[submodule "busybox"]
+	path = KitsuneMagisk/native/src/external/busybox
+	url = https://github.com/topjohnwu/ndk-busybox.git
+[submodule "lz4"]
+	path = KitsuneMagisk/native/src/external/lz4
+	url = https://github.com/lz4/lz4.git
+[submodule "bzip2"]
+	path = KitsuneMagisk/native/src/external/bzip2
+	url = https://github.com/nemequ/bzip2.git
+[submodule "xz"]
+	path = KitsuneMagisk/native/src/external/xz
+	url = https://github.com/xz-mirror/xz.git
+[submodule "pcre"]
+	path = KitsuneMagisk/native/src/external/pcre
+	url = https://android.googlesource.com/platform/external/pcre
+[submodule "libcxx"]
+	path = KitsuneMagisk/native/src/external/libcxx
+	url = https://github.com/topjohnwu/libcxx.git
+[submodule "zlib"]
+	path = KitsuneMagisk/native/src/external/zlib
+	url = https://android.googlesource.com/platform/external/zlib
+[submodule "zopfli"]
+	path = KitsuneMagisk/native/src/external/zopfli
+	url = https://github.com/google/zopfli.git
+[submodule "cxx-rs"]
+	path = KitsuneMagisk/native/src/external/cxx-rs
+	url = https://github.com/topjohnwu/cxx.git
+[submodule "system_properties"]
+	path = KitsuneMagisk/native/src/external/system_properties
+	url = https://github.com/topjohnwu/system_properties.git
+[submodule "termux-elf-cleaner"]
+	path = KitsuneMagisk/tools/termux-elf-cleaner
+	url = https://github.com/termux/termux-elf-cleaner.git
+[submodule "parallel-hashmap"]
+	path = KitsuneMagisk/native/src/external/parallel-hashmap
+	url = https://github.com/greg7mdp/parallel-hashmap.git
+[submodule "native/src/external/_xDL"]
+	path = KitsuneMagisk/native/src/external/_xDL
+	url = https://github.com/hexhacking/xDL.git

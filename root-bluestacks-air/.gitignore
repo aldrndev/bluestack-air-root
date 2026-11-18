@@ -1,0 +1,13 @@
+/backup
+/files
+
+*.apk
+!magisk.apk
+*.bak
+*.meta
+*.tmp.*
+/magisk
+/magisk-bin
+/build
+
+.DS_Store

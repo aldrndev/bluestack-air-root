@@ -1,0 +1,32 @@
+# macOS & Python caches
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# BlueStacks Air rooter local work/backup/build directories & APKs
+# (Keep root-bluestacks-air/magisk.apk via root-bluestacks-air/.gitignore)
+/root-bluestacks-air/files/
+/root-bluestacks-air/backup/
+/root-bluestacks-air/magisk/
+/root-bluestacks-air/magisk-bin/
+/root-bluestacks-air/build/
+
+# KitsuneMagisk local signing secrets, custom config, caches, and build outputs
+/KitsuneMagisk/release.jks
+/KitsuneMagisk/*.config.prop
+/KitsuneMagisk/dict.txt
+/KitsuneMagisk/local.properties
+/KitsuneMagisk/out/
+/KitsuneMagisk/build/
+/KitsuneMagisk/app/build/
+/KitsuneMagisk/stub/build/
+/KitsuneMagisk/shared/build/
+/KitsuneMagisk/native/out/
+/KitsuneMagisk/native/obj/
+/KitsuneMagisk/native/libs/
+/KitsuneMagisk/native/src/target/
+/KitsuneMagisk/.gradle/
+/KitsuneMagisk/.idea/
+/KitsuneMagisk/captures/
